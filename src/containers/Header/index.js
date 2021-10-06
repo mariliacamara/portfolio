@@ -43,7 +43,7 @@ const HeaderSection = styled.section`
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
-  margin-top: 3rem;
+  margin-top: 10rem;
   margin-bottom: 3rem;
 
   .header-image img {
